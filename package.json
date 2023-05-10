@@ -1,0 +1,22 @@
+{
+  "name": "slot-machine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "project.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rajithlahiru/Slot_Machine_Js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rajithlahiru/Slot_Machine_Js/issues"
+  },
+  "homepage": "https://github.com/Rajithlahiru/Slot_Machine_Js#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
